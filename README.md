@@ -1,4 +1,6 @@
-Assignment
+Odin project:
+Link:https://www.theodinproject.com/lessons/foundations-calculator
+Assignment:
 Don’t forget to commit early & often! You can reference the Commit Messages lesson here!
 
 Here are some use cases (abilities your project needs to have):
@@ -29,4 +31,4 @@ Users can get floating point numbers if they do the math required to get one, bu
 Make it look nice! This is a great project to practice your CSS skills. At least make the operations a different color from the keypad buttons.
 Add a “backspace” button, so the user can undo if they click the wrong number.
 Add keyboard support!
-https://www.theodinproject.com/lessons/foundations-calculator
+
